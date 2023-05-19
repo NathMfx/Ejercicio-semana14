@@ -1,0 +1,41 @@
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-family: 'poppins', serif;
+  
+}
+
+
+h1{
+  text-align: center;
+  color: blueviolet;
+  margin-top: 50px;
+}
+
+h2{
+  text-align: center;
+  color: blueviolet;
+  margin-bottom: 20px;
+  font-family: 'poppins', serif;
+
+}
+
+li{
+  cursor: pointer;
+  margin: 8px;
+}
+
+section{ 
+  display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+min-height: 200px;
+margin-top: 40px;
+font-family:monospace;
+}
